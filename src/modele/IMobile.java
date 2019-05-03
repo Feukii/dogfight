@@ -2,7 +2,6 @@ package modele;
 
 import java.awt.Image;
 
-import com.sun.javafx.scene.traversal.Direction;
 
 public interface IMobile {
 

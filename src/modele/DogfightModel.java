@@ -1,8 +1,13 @@
 package modele;
 
 import java.util.ArrayList;
+import java.util.Observable;
+
+
 
 public class DogfightModel implements IDogfightModel {
+	
+	private final Sky sky;
 
 	     public DogfightModel() {
 		}
